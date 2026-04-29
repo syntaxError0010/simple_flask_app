@@ -10,7 +10,7 @@ on:
 
 env:
   IMAGE_NAME: my-flask-app
-  CONTAINER_NAME: flask-app
+  CONTAINER_NAME: anupam 
 
 jobs:
   # ────────────────────────────────────────────────────────────────
